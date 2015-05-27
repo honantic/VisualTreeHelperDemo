@@ -1,0 +1,22 @@
+﻿<Window x:Class="VisualTreeHelperDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        Loaded="Window_Loaded" 
+        WindowStartupLocation="CenterScreen" 
+        >
+    <Grid Name="TopGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Name="UpperGrid" >
+            <Button Content="Button1" Click="btn_One_Click" Name="btn_One" VerticalAlignment="Center" HorizontalAlignment="Center">
+            </Button>
+        </Grid>
+        <Grid Name="LowerGrid" Grid.Row="1">
+            <Button Content="Button2" Click="btn_Two_Click" Name="btn_Two" VerticalAlignment="Center" HorizontalAlignment="Center">
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

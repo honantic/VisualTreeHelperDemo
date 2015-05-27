@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\bin\Debug\VisualTreeHelper.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\bin\Debug\VisualTreeHelper.exe
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\bin\Debug\VisualTreeHelper.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelperDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelper_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelper.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelperDemo.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelperDemo.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelper.exe
+c:\users\administrator\documents\visual studio 2013\Projects\VisualTreeHelper\VisualTreeHelper\obj\Debug\VisualTreeHelper.pdb
