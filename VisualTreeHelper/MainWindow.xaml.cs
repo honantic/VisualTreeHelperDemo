@@ -129,6 +129,11 @@ namespace VisualTreeHelperDemo
                 }
                 else 
                 {
+                    List<T> parentOfParent = FindVisualParent<T>(parent);
+                    if (parentOfParent != null)
+                    {
+                        TList.AddRange(parentOfParent);
+                    }
                 }
                 return TList;
             }
@@ -138,7 +143,6 @@ namespace VisualTreeHelperDemo
                 return null;
             }
         }
-
     }
 
 
